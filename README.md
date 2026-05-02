@@ -24,7 +24,7 @@ I'm a backend developer who enjoys building things, breaking them, and figuring 
 
 ## 🧪 Projects
 
-**TradeHub**
+**GameTopUp**
 A personal backend lab where I experiment with ASP.NET Core, APIs, and system design.
 
 Currently evolving into a top-up intermediary system for managing game transactions and payments.
