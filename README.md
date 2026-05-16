@@ -1,3 +1,7 @@
+<p align="center">
+<img width="1672" height="941" alt="Banner" src="https://github.com/user-attachments/assets/2644d8a0-5d13-4414-8848-387549300c20" />
+</p>
+
 # Hi, I'm Minh Khoa 👋
 
 I'm a backend developer who enjoys building things, breaking them, and figuring out how they actually work.
@@ -22,9 +26,20 @@ I'm a backend developer who enjoys building things, breaking them, and figuring 
 * Always working toward cleaner, more maintainable code
 ---
 
-## 🧪 Projects
+## 🧪 Featured Project
 
-**GameTopUp**
-A personal backend lab where I experiment with ASP.NET Core, APIs, and system design.
+### 🎮 GameTopUp — *My Backend Playground for Game Top-up Flows*
 
-Currently evolving into a top-up intermediary system for managing game transactions and payments.
+This is my **personal backend playground** where I apply what I've learned about ASP.NET Core and system design to experiment with a real-world problem: transforming a manual, chat-based game top-up workflow into a structured platform.
+
+* **Tech Stack:** ASP.NET Core (Web API), Dapper, MySQL, Docker.
+* **Architecture:** Layered Architecture (Controllers → Application Services → Business Services → Repositories)
+
+#### 🎯 Motivation
+Small game shops often handle discount top-up orders manually via chat, which easily leads to human errors, missed orders, and slow processing. This system aims to centralize that entire flow into a manageable backend platform.
+
+#### 🧠 What I'm building & exploring in this project:
+* **Order State Machine:** Moving away from manual chat tracking by setting up a structured queue with explicit status transitions (`Pending` → `Paid` → `Processing` → `Completed` / `Cancelled`) to handle the order lifecycle properly.
+* **Pricing & Margin Logic:** Handling the business logic behind intermediary pricing, focusing on how to programmatically calculate profit margins based on wholesale costs, retail prices, and discount rates.
+* **Internal Wallet & Audit Flow:** Working on a basic deposit/withdrawal system with QR-based flows, while learning how to use `BalanceBefore` and `BalanceAfter` to ensure financial traceability.
+* **Concurrency & Safety:** Exploring backend techniques to handle concurrent transaction requests safely, aiming to keep financial data consistent and prevent double-spending as the system expands.
