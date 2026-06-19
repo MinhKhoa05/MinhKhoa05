@@ -1,45 +1,59 @@
 <p align="center">
-  <img width="1672" height="941" alt="Banner" src="https://github.com/user-attachments/assets/2644d8a0-5d13-4414-8848-387549300c20" />
+  <a href="https://github.com/MinhKhoa05/gametopup">
+    <img src="./banner.svg" alt="Hồ Nguyễn Minh Khoa" width="100%" />
+  </a>
 </p>
 
 # Hi, I'm Minh Khoa 👋
 
-Backend-focused developer interested in transactional systems, API design, and backend architecture.
+I'm a Software Engineering student who enjoys building things.
 
-Currently exploring concurrency control, workflow orchestration, and transaction consistency through hands-on projects.
-
----
-
-## 🧰 Tech I work with
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Most of what I learn comes from personal projects. I like starting with an idea, turning it into something usable, then gradually improving it through feedback, refactoring, and new requirements.
 
 ---
 
-## 🧪 Featured Project: GameTopUp Backend
+## 🛠 Tech Stack
 
-Backend platform for managing intermediary game top-up workflows with transactional consistency and concurrency control.
-
-**Engineering Highlights:**
-
-- **Concurrency Control:** Uses pessimistic locking to protect wallet and inventory consistency.
-- **Transaction Safety:** Handles multi-step operations across wallet, order, and inventory workflows.
-- **State-Based Workflow:** Explicit order state transitions (`Pending → Paid → Processing → Completed / Cancelled`).
-- **Integration Testing:** End-to-end tests using temporary MySQL containers with TestContainers.
-
-🔗 [View Repository: GameTopUp Backend](https://github.com/MinhKhoa05/gametopup-backend)
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 📌 About Me
+## 🚀 Featured Project
 
-- Interested in backend engineering and transactional systems
-- Learning through hands-on projects and iterative refinement
-- Exploring concurrency control, workflow orchestration, and integration testing
-- Focused on writing maintainable and understandable backend code
+### <img src="https://raw.githubusercontent.com/MinhKhoa05/gametopup/main/frontend/public/favicon.svg" width="20" /> [GameTopUp](https://github.com/MinhKhoa05/gametopup)
 
-📫 Reach me at <mkhoa639@gmail.com>
+**Intermediary Game Top-Up Operations System**
+
+ASP.NET Core • React • MariaDB • Docker
+
+A long-term project where I explore backend development, frontend experiences, testing, deployment, and product improvements.
+
+🔗 Repository: https://github.com/MinhKhoa05/gametopup
+
+---
+
+## 🌱 Currently Exploring
+
+- Backend development
+- Software architecture
+- Product design & UX
+- Building maintainable systems
+- Long-term project development
+
+---
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing</i>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:mkhoa639@gmail.com">mkhoa639@gmail.com</a>
+</p>
