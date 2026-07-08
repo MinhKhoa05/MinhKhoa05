@@ -28,7 +28,7 @@ Most of what I learn comes from personal projects. I like starting with an idea,
 
 ## 🚀 Featured Project
 
-### <img src="https://raw.githubusercontent.com/MinhKhoa05/gametopup/main/frontend/public/favicon.svg" width="20" /> [GameTopUp](https://github.com/MinhKhoa05/gametopup)
+### <img src="https://raw.githubusercontent.com/MinhKhoa05/gametopup/main/frontend/public/logo.svg" width="20" /> [GameTopUp](https://github.com/MinhKhoa05/gametopup)
 
 **Intermediary Game Top-Up Operations System**
 
