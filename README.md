@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/MinhKhoa05/gametopup">
-    <img src="./banner.svg" alt="Hồ Nguyễn Minh Khoa" width="100%" />
+  <a href="https://github.com/MinhKhoa05/RealtimeChat">
+    <img src="./banner.png" alt="Hồ Nguyễn Minh Khoa" width="100%" />
   </a>
 </p>
 
 # Hi, I'm Minh Khoa 👋
 
-I'm a Software Engineering student who enjoys building things.
+I'm a Software Engineering student with a main focus on **Backend Development with .NET**.
 
-Most of what I learn comes from personal projects. I like starting with an idea, turning it into something usable, then gradually improving it through feedback, refactoring, and new requirements.
+I enjoy building web applications through personal projects, from designing databases and implementing business logic to testing and deployment. Along the way, I also learn frontend development and other technologies to better understand the whole application and build complete web apps on my own.
 
 ---
 
@@ -16,37 +16,42 @@ Most of what I learn comes from personal projects. I like starting with an idea,
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-007ACC?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-F5C542?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### <img src="https://raw.githubusercontent.com/MinhKhoa05/gametopup/main/frontend/public/favicon.svg" width="20" /> [GameTopUp](https://github.com/MinhKhoa05/gametopup)
+### 💬 [RealtimeChat](https://github.com/MinhKhoa05/RealtimeChat)
 
-**Intermediary Game Top-Up Operations System**
+**Real-Time Chat & Social App**
 
-ASP.NET Core • React • MariaDB • Docker
+`ASP.NET Core` • `EF Core` • `SignalR` • `WebRTC` • `React` • `TypeScript` • `MariaDB` • `Docker`
 
-A long-term project where I explore backend development, frontend experiences, testing, deployment, and product improvements.
+A personal project I built to explore real-time systems and develop a complete communication app. It covers core messaging features, including private and group chats, message interactions, and media sharing, alongside audio/video calls. Beyond chat, I expanded the app with social features such as posts, friend recommendations, and live trip sharing to help friends stay connected and keep track of each other during meetups.
 
-🔗 Repository: https://github.com/MinhKhoa05/gametopup
+[View Repository →](https://github.com/MinhKhoa05/RealtimeChat)
 
----
+### 🎮 [GameTopUp](https://github.com/MinhKhoa05/gametopup)
 
-## 🌱 Currently Exploring
+**Game Top-Up Operations System**
 
-- Backend development
-- Software architecture
-- Product design & UX
-- Building maintainable systems
-- Long-term project development
+`ASP.NET Core` • `Dapper` • `React` • `TypeScript` • `MariaDB` • `Docker`
+
+My first personal project in web development. Although it may look like a fairly basic e-commerce application, I learned a lot from building it, from database design and full-stack development to testing and deployment. It also helped me better understand how to build reliable applications by handling transactions and addressing practical challenges such as race conditions.
+
+[View Repository →](https://github.com/MinhKhoa05/gametopup)
 
 ---
 
