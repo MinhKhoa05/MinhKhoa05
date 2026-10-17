@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MinhKhoa05/RealtimeChat">
-    <img src="./banner.png" alt="Hồ Nguyễn Minh Khoa" width="100%" />
+    <img src="./banner.webp" alt="Hồ Nguyễn Minh Khoa" width="100%" />
   </a>
 </p>
 
